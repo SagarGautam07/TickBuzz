@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "movieId": "1",
+    "theaterId": "1",
+    "time": "14:30",
+    "date": "2024-12-20",
+  "price": 250
+  },
+  {
+    "id": "2",
+    "movieId": "1",
+    "theaterId": "1",
+    "time": "17:00",
+    "date": "2024-12-20",
+  "price": 350
+  },
+  {
+    "id": "3",
+    "movieId": "1",
+    "theaterId": "2",
+    "time": "19:30",
+    "date": "2024-12-20",
+  "price": 300
+  },
+  {
+    "id": "4",
+    "movieId": "2",
+    "theaterId": "1",
+    "time": "16:00",
+    "date": "2024-12-20",
+  "price": 270
+  },
+  {
+    "id": "5",
+    "movieId": "2",
+    "theaterId": "3",
+    "time": "20:00",
+    "date": "2024-12-20",
+  "price": 375
+  },
+  {
+    "id": "6",
+    "movieId": "3",
+    "theaterId": "4",
+    "time": "18:15",
+    "date": "2024-12-20",
+  "price": 450
+  }
+]
